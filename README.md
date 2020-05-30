@@ -1,5 +1,7 @@
 # Ergodox EZ Layout
 
+[Source](src)
+
 [Compiled layout](3vqYw.hex)
 
 [ORYX online editor](https://configure.ergodox-ez.com/ergodox-ez/layouts/3vqYw/latest/0)
