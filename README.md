@@ -1,7 +1,7 @@
 Ergodox EZ Layout
 =================
 
-This is the layout I currently use on my Ergodox EZ keyboard. Key
+This is the layout I currently use on my Ergodox EZ keyboard. "Key" (😜)
 features include
 
 -   Home-row modifiers via dual-function keys
@@ -12,7 +12,7 @@ features include
 
 [Compiled layout](3vqYw.hex)
 
-[ORYX online editor](https://configure.ergodox-ez.com/ergodox-ez/layouts/3vqYw/latest/0)
+[ORYX](https://configure.ergodox-ez.com/ergodox-ez/layouts/3vqYw/latest/0)
 
 Layers
 ------
