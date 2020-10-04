@@ -1,8 +1,6 @@
 Ergodox EZ Layout
 =================
 
-*Mirrors: [GitHub] ~ [GitLab]*
-
 This is the layout I currently use on my Ergodox EZ keyboard. "Key" (😜)
 features include
 
@@ -30,6 +28,3 @@ License
 
 The contents of this repository are licensed under the MIT license. See
 [COPYING](COPYING) for further details.
-
-[GitHub]: https://github.com/Johennes/ergodox-layout
-[GitLab]: https://gitlab.com/cherrypicker/ergodox-layout
