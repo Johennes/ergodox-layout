@@ -4,24 +4,14 @@ Ergodox EZ Layout
 This is the layout I currently use on my Ergodox EZ keyboard. "Key" (😜)
 features include
 
--   Home-row modifiers via dual-function keys
--   Minimal use of thumb clusters to avoid finger spread
--   Number block and mouse control on secondary layers
+- Home-row modifiers via dual-function keys
+- Minimal use of thumb clusters to avoid finger spread
+- Number block and mouse control on secondary layers
+- Linux and macOS layers
 
-[Source](src)
+[Compiled layout](layout.hex)
 
-[Compiled layout](gaW9a.hex)
-
-[ORYX](https://configure.ergodox-ez.com/ergodox-ez/layouts/gaW9a/latest/0)
-
-Layers
-------
-
-![Layer 0](layer-0.png)
-
-![Layer 1](layer-1.png)
-
-![Layer 2](layer-2.png)
+[ORYX](https://configure.zsa.io/ergodox-ez/layouts/gODr7/latest/0)
 
 License
 -------
